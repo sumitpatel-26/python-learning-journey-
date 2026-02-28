@@ -73,5 +73,3 @@ for i in range(3):
     fruit=input("Enter the name of your favorite fruit: ")
     fruits.append(fruit)
 print("Your favorite fruits are: ", fruits)
-
-    
